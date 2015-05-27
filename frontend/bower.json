@@ -1,0 +1,21 @@
+{
+  "name": "recomenda-ae-frontend",
+  "version": "0.0.0",
+  "homepage": "http://recomenda.ae",
+  "authors": [
+    "Oberdan Ferreira <oberdan.bitencourt@gmail.com>",
+    "Priscila Machado <priscilakmachado@gmail.com>"
+  ],
+  "description": "recomenda.ae website's frontend",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}
